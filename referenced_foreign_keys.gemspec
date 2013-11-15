@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name        = 'referenced-foreign-keys'
   s.version     = '0.0.1'
-  s.date        = '2010-04-28'
+  s.date        = '2013-11-14'
   s.summary     = "Referenced Foreign Keys"
   s.description = "Foreign keys added on references"
   s.authors     = ["coelhone"]
