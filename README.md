@@ -9,6 +9,12 @@ Example:
   end
 ```
 
+add:
+```
+  gem 'foreigner' #WTF!?!?!? too sleepy, gonna check this tomorrow...
+  gem 'referenced-foreign-keys'
+```
+
 Todo:
 
 * validate change_table
